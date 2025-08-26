@@ -91,7 +91,7 @@ ul li a:hover{
        width: 100px;
        height: 40px;
        background: #ff7200;
-       border: 2px solid #ff200;
+       border: 2px solid ;
        margin-top: 14px;
        color: #fff;
        font-size: 15px;
@@ -161,7 +161,7 @@ ul li a:hover{
       }
 
 .content:hover{
-              Background- color: #fff;
+              background-color:  #fff;
       }
 
 .content span{
@@ -252,7 +252,7 @@ ul li a:hover{
 
 .liw{
       padding-top: 15px;
-      padding-botton: 10px;
+      padding-bottom: 10px;
       text-align: center;    
 }
 
