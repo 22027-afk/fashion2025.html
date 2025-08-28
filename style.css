@@ -54,7 +54,7 @@ ul li a{
 }
 
 ul li a:hover{
-   color:#8fd3fe ;
+   color:#f3aac9 ;
 }
 
 .search{
@@ -66,8 +66,8 @@ ul li a:hover{
 .btn{
    width: 100px;
    height: 40px;
-   background: #aabda0;
-   border: 2px solid #aabda0;
+   background: #f098da;
+   border: 2px solid #ee78af;
    margin-top: 13px;
    color: #fff;
    font-size: 15px;
@@ -112,7 +112,7 @@ ul li a:hover{
 .content .cn{
    width: 160px;
    height: 40px;
-   background: #ffab57;
+   background: #f187e3;
    border: none;
    margin-bottom: 10px;
    margin-left: 20px;
@@ -133,14 +133,14 @@ ul li a:hover{
 }
 
 .content span{
-   color: #8fd3fe;
+   color: #fe8fdd;
    font-size: 53px;
 }
 
 .form{
    width: 250px;
    height: 380px;
-   background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+   background: linear-gradient(to top, rgba(236, 29, 174, 0.8)50%,rgba(235, 41, 202, 0.8)50%);
    position: absolute;
    top: -20px;
    left: 870px;
@@ -187,7 +187,7 @@ ul li a:hover{
 .btnn{
    width: 240px;
    height: 40px;
-   background: #beccc0;
+   background: #7eeb8e;
    border: none;
    margin-top: 30px;
    font-size: 18px;
@@ -204,7 +204,7 @@ ul li a:hover{
 
 .btnn a{
    text-decoration: none;
-   color: #000;
+   color: #f84adb;
    font-weight: bold;
 }
 
@@ -217,7 +217,7 @@ ul li a:hover{
 
 .form .link a{
    text-decoration: none;
-   color: #8fd3fe;
+   color: #d65ab1;
 }
 
 .liw{
@@ -238,7 +238,7 @@ ul li a:hover{
    box-sizing: border-box;
 }
 footer{
-   background-color: #111;
+   background-color: #b1cde4;
 }
 .footerContainer{
    width: 100%;
@@ -251,22 +251,22 @@ footer{
 .socialIcons a{
    text-decoration: none;
    padding:  10px;
-   background-color: white;
+   background-color: rgb(10, 10, 10);
    margin: 10px;
    border-radius: 50%;
 }
 .socialIcons a i{
    font-size: 2em;
-   color: black;
+   color: rgb(116, 18, 207);
    opacity: 0,9;
 }
 
 .socialIcons a:hover{
-   background-color: #111;
+   background-color: #e095e7;
    transition: 0.5s;
 }
 .socialIcons a:hover i{
-   color: white;
+   color: rgb(237, 146, 240);
    transition: 0.5s;
 }
 .footerNav{
@@ -278,7 +278,7 @@ footer{
    list-style-type: none;
 }
 .footerNav ul li a{
-   color:white;
+   color:rgb(141, 5, 118);
    margin: 20px;
    text-decoration: none;
    font-size: 1.3em;
@@ -290,11 +290,11 @@ footer{
     opacity: 1;
 }
 .footerBottom{
-   background-color: #000;
+   background-color: #bd176a;
    text-align: center;
 }
 .footerBottom p{
-   color: white;
+   color: rgb(180, 25, 76);
 }
 .designer{
    opacity: 0.7;
@@ -320,7 +320,7 @@ footer{
 
 .product-images-image{
    font-family: Helvetica;
-   color: #fff;
+   color: #b825ab;
    border-radius: 16px;
 }
 
@@ -336,12 +336,12 @@ footer{
 .feature {
     text-align: center;
     font-size: 13px;
-    color: #f8d29a;
+    color: #cc2c7c;
 }
 
 .feature i {
     font-size: 30px;
-    color: #f8d29a;
+    color: #cc0abc;
     margin-bottom: 10px;
 }
 
@@ -372,7 +372,7 @@ footer{
 
 .support-text h1 {
     font-size: 32px;
-    color: #8fd3fe;
+    color: #610b77;
     margin-bottom: 20px;
     font-family: Helvetica;
 }
@@ -395,7 +395,7 @@ border: radius 16px;
             display: inline-block;
             padding: 10px 20px;
             margin-top: 20px;
-            background-color: #ffab57;
+            background-color: #420466;
             color: black;
             border: none;
             border-radius: 10px;
@@ -406,8 +406,8 @@ border: radius 16px;
         }
 
         .learn-more-btn:hover {
-            background-color: white;
-            color: #ffab57;
+            background-color: rgb(238, 123, 223);
+            color: #f075e5;
         }
 
         @media (max-width: 768px) {
