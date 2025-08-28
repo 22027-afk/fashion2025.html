@@ -48,7 +48,7 @@ ul li{
 ul li a{
    text-decoration: none;
    color: #fff;
-   font-family: Helvetica;
+   font-family: 'Lucida Grande';
    font-weight: bold;
    transition: 0.4s ease-in-out;
 }
@@ -89,7 +89,7 @@ ul li a:hover{
    margin: auto;
    color: #fff;
    position: relative;
-   font-family: Helvetica;
+   font-family: 'Lucida Grande';
 }
 
 
@@ -102,7 +102,7 @@ ul li a:hover{
 }
 
 .content h1{
-   font-family: Helvetica;
+   font-family: 'Lucida Grande';
    font-size: 50px;
    padding-left: 20px;
    margin-top: 9%;
@@ -150,7 +150,7 @@ ul li a:hover{
 
 .form h2{
    width: 220px;
-   font-family: Helvetica;
+   font-family: 'Lucida Grande';
    text-align: center;
    color: #aabda0;
    font-size: 22px;
@@ -172,7 +172,7 @@ ul li a:hover{
    font-size: 15px;
    letter-spacing: 1px;
    margin-top: 30px;
-   font-family: Helvetica;
+   font-family: 'Lucida Grande';
 }
 
 .form input:focus{
@@ -181,7 +181,7 @@ ul li a:hover{
 
 ::placeholder{
    color: #fff;
-   font-family: Helvetica;
+   font-family: 'Lucida Grande';
 }
 
 .btnn{
@@ -209,7 +209,7 @@ ul li a:hover{
 }
 
 .form .link{
-   font-family: Helvetica;
+   font-family: 'Lucida Grande';
    font-size: 17px;
    padding-top: 20px;
    text-align: center;
@@ -319,7 +319,7 @@ footer{
 }
 
 .product-images-image{
-   font-family: Helvetica;
+   font-family: 'Lucida Grande';
    color: #b825ab;
    border-radius: 16px;
 }
@@ -367,14 +367,14 @@ footer{
     font-size: 18px;
     line-height: 1.6;
     color: #ffffff;
-    font-family: Helvetica;
+    font-family: 'Lucida Grande';
 }
 
 .support-text h1 {
     font-size: 32px;
-    color: #610b77;
+    color: #0b010e;
     margin-bottom: 20px;
-    font-family: Helvetica;
+    font-family: 'Lucida Grande';
 }
 
 .support-image img {
@@ -395,14 +395,14 @@ border: radius 16px;
             display: inline-block;
             padding: 10px 20px;
             margin-top: 20px;
-            background-color: #420466;
+            background-color: #c41667;
             color: black;
             border: none;
             border-radius: 10px;
             font-size: 16px;
             text-decoration: none;
             transition: 0.3s ease;
-            font-family: Helvetica;
+            font-family: 'Lucida Grande';
         }
 
         .learn-more-btn:hover {
@@ -428,7 +428,7 @@ border: radius 16px;
         body {
             background-color: #fff;
             color: #000;
-            font-family: Helvetica;
+            font-family: 'Lucida Grande';
             margin: 0;
             padding-bottom: 40px;
         }
@@ -455,7 +455,7 @@ border: radius 16px;
             color: white;
             font-weight: bold;
             text-decoration: none;
-            font-family: Helvetica;
+            font-family:  'Lucida Grande';
             font-size: 14px;
             transition: color 0.3s ease;
         }
@@ -476,7 +476,7 @@ border: radius 16px;
         }
     
         .faq-item {
-            background: #ccc;
+            background: #f5c3e6;
             border-radius: 10px;
             margin-bottom: 15px;
             cursor: pointer;
@@ -484,7 +484,7 @@ border: radius 16px;
             transition: background 0.3s ease;
         }
         .faq-item:hover {
-            background: #e8eec8;
+            background: #b0e9f3;
         }
         .faq-question {
             font-weight: bold;
@@ -523,7 +523,7 @@ border: radius 16px;
             padding: 40px 15px 20px;
             color: white;
             text-align: center;
-            font-family: Helvetica;
+            font-family: 'Lucida Grande';
             margin-top: 60px;
         }
         .footerContainer {
@@ -580,7 +580,7 @@ border: radius 16px;
             max-width: 1400px;
             margin: 40px auto;
             text-align: center;
-            font-family: Helvetica;
+            font-family: 'Lucida Grande';
             color: white;
         }
 
@@ -623,7 +623,7 @@ border: radius 16px;
             color: white;
             font-weight: bold;
             text-decoration: none;
-            font-family: Helvetica;
+            font-family: 'Lucida Grande';
             font-size: 14px;
             transition: color 0.3s ease;
         }
@@ -638,7 +638,7 @@ border: radius 16px;
             padding: 4px 1px 2px;
             color: white;
             text-align: center;
-            font-family: Helvetica;
+            font-family: 'Lucida Grande';
         }
 
         .footerContainer {
